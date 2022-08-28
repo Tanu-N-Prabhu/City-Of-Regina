@@ -13,3 +13,6 @@
 
 It works very well on my laptop screen (1920x1080p) but when I run this on my emulator or my smartphone (OnePlus 6T) with the same resolution the webpage does not adapt.
 
+<p align = "center">
+<img src = "https://github.com/Tanu-N-Prabhu/City-Of-Regina/blob/main/reginaImages/pixelEmulator.PNG">
+</p>
