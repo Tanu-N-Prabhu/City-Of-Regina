@@ -16,3 +16,8 @@ It works very well on my laptop screen (1920x1080p) but when I run this on my em
 <p align = "center">
 <img src = "https://github.com/Tanu-N-Prabhu/City-Of-Regina/blob/main/reginaImages/pixelEmulator.PNG">
 </p>
+
+
+### No Profile Change Options
+
+Now say suppose the account is mis-spelt due to human error, then in the current website there is no place to modify the changes. So the only way to change that is to get in contact with them via a phone call, that takes forever (minimum 20 minutes) to update. My point of view in this case is it would be make more sense to add a modify option so that the user can make those changes then and there on the spot.
